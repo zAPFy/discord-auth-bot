@@ -1,0 +1,23 @@
+{
+  "name": "discord-auth-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axal90/discord-auth-bot.git"
+  },
+  "author": "Alexander Zeiher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axal90/discord-auth-bot/issues"
+  },
+  "homepage": "https://github.com/axal90/discord-auth-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "request": "^2.87.0"
+  }
+}
